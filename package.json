@@ -1,0 +1,26 @@
+{
+  "name": "proxifly-proxy-api",
+  "version": "1.0.0",
+  "description": "Proxy API a REST API that provides working, tested proxies with automatic rotation and geo-targeting",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "proxy-api",
+    "proxy",
+    "rest-api",
+    "rotating-proxy",
+    "web-scraping",
+    "geo-targeting",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Proxifly",
+  "license": "ISC",
+  "homepage": "https://proxifly.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proxifly/proxy-api.git"
+  }
+}
